@@ -5,4 +5,4 @@
 4. Updated Jenkins repository
 5. I want to see the code build and run automatically
 6. Did it build
-7. Build
+7. Build automation
