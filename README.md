@@ -3,3 +3,4 @@
 2. Changes of the newest README.md
 3. This code is running okay
 4. Updated Jenkins repository
+5. I want to see the code build and run automatically
