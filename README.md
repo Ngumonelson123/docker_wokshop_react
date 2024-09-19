@@ -7,3 +7,4 @@
 6. Did it build
 7. Build automation
 8. Finally i got the code right and it is running automatically
+9. I'm so haappy the pipeline is working as expected!!!!WOOOW
